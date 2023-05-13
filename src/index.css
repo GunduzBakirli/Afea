@@ -1,0 +1,12 @@
+.filters {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 15px;
+    border: 2px solid balck;
+
+  }
+  .inputes{
+    border: 2px solid black;
+    border-radius: 5px;
+  }
